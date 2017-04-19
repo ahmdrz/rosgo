@@ -11,7 +11,8 @@ import (
 	"strconv"
 	"sync"
 	"time"
-	"xmlrpc"
+
+	"github.com/ahmdrz/rosgo/xmlrpc"
 )
 
 const (
